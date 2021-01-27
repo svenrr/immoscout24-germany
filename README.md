@@ -11,4 +11,6 @@ Dataset from: https://www.kaggle.com/corrieaar/apartment-rental-offers-in-german
 
 This is a personal project to get a general overview of the apartment market in Germany. In particular, the focus is on Cologne (city center and surrounding area), because I want to move there soon.
 
-What prices can be expected? Which areas are particularly expensive or cheap? What does an average apartment in Cologne look like?
+* What prices can be expected? 
+* Which areas are particularly expensive or cheap? 
+* What does an average apartment in Cologne look like?
